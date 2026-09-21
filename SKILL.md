@@ -1,6 +1,6 @@
 ---
 name: jev-mcp
-description: Get fast, cheap, typed judgments from TypeSafe's Jev model through the jev MCP tools — pick one of a set, score on a rubric, or answer yes/no with a calibrated probability. Use when a decision has a closed answer set and would otherwise cost reasoning tokens or sit in context: routing work to a subagent or handler, picking one of several files, grading severity, risk or relevance, triaging issues, alerts, logs or diffs, or filtering noise before it enters context. Do not use for writing code or prose, or for counting, arithmetic, or dates.
+description: Get fast, cheap, typed judgments from TypeSafe's Jev model through the jev MCP tools — pick one of a set, score on a rubric, or answer yes/no with a calibrated probability. Use when a decision has a closed answer set and would otherwise cost reasoning tokens or sit in context — routing work to a subagent or handler, picking one of several files, grading severity, risk or relevance, triaging issues, alerts, logs or diffs, or filtering noise before it enters context. Do not use for writing code or prose, or for counting, arithmetic, or dates.
 ---
 
 # Jev decisions
