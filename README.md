@@ -9,6 +9,8 @@ confidence. It does not generate text, so it cannot write code or hold a convers
 This is a zero-dependency Go stdio MCP server. It exposes Jev as four tools so an agent
 can route, classify, rank, or gate a decision without spending reasoning tokens on it.
 
+Unofficial client, not affiliated with TypeSafe. Set `TYPESAFE_API_KEY` to your own key.
+
 ## Why
 
 Agents constantly make judgments with a closed answer set: which of these files holds the

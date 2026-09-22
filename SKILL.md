@@ -5,6 +5,8 @@ description: Get fast, cheap, typed judgments from TypeSafe's Jev model through 
 
 # Jev decisions
 
+Unofficial client, not affiliated with TypeSafe. The server reads `TYPESAFE_API_KEY` from the environment.
+
 Jev is a **System One model**, not a language model. You send a `state` and typed
 questions, and it returns typed answers with probabilities. It cannot write, explain, or
 reason in steps. Use it as a decision primitive, never as a place to think.
